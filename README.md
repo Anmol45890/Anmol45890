@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -126,10 +126,74 @@
           I take this opportunity to ask for your consent if you want to be my
           life partner.This letter is a token of my love for you. <br />
           If You Accept
-<a href="new.html">Click Here</a>
+<!-- <a href="new.html">Click Here</a>
         </p>
       </div>
       <button onclick="openUp()">Click Here</button>
     </div>
   </body>
-</html>
+</html> --> -->
+
+
+
+
+
+# 👋 Hi, I'm Anmol Chauhan ⭐
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%7C+Data+Science+Enthusiast;Machine+Learning+Learner;Python+Developer;Building+Projects+Every+Day;Coding+During+The+Day%2C+Thinking+About+You+At+Night+❤️" />
+</p>
+
+A passionate learner from India 🇮🇳
+
+📧 **Email:** [chauhananmol260305@gmail.com](mailto:chauhananmol260305@gmail.com)
+
+---
+
+## 🌱 I’m currently learning
+
+* Python
+* Data Science
+* Machine Learning
+
+---
+
+## 👯 I’m looking to collaborate on
+
+* AI projects
+* Machine Learning projects
+
+---
+
+## 💬 Ask me about
+
+* Tech
+* Coding
+* Collaboration
+
+---
+
+## 🌐 Socials
+
+[Instagram](link)
+[LinkedIn](https://www.linkedin.com/in/anmol-chauhan-9b718b2b8/)
+
+---
+
+## 💻 Tech Stack
+
+Python | C++ | HTML | JavaScript | React | Next.js
+TensorFlow | Pandas | NumPy | Scikit-Learn
+
+---
+
+## ❤️ Dedicated to Someone Special
+
+> *In a world full of code and logic, you are my most beautiful exception.*
+
+```javascript
+while (myHeartBeats) {
+    loveYou();
+}
+```
+
