@@ -49,22 +49,6 @@ TensorFlow | Pandas | NumPy | Scikit-Learn
 
 ---
 
-## ❤️ Dedicated to Someone Special
 
-> *In a world full of code and logic, you are my most beautiful exception.*
 
-```javascript
-while (myHeartBeats) {
-    loveYou();
-}
-```
-
----
-
-## 🕊️ In Loving Memory
-
-कुछ लोग ज़िंदगी में नहीं,
-हमारी यादों में हमेशा के लिए रह जाते हैं।
-
-```
 
